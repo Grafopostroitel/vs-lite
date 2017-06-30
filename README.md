@@ -1,6 +1,8 @@
 # vs-lite
 VS-Lite Model of Tree-Ring Width
 
+ftp://ftp.ncdc.noaa.gov/pub/data/paleo/softlib/vs-lite/
+
 # ABSTRACT: 
 We present a simple, efficient, process-based forward model 
 of tree-ring growth, called Vaganov-Shashkin-Lite (VS-Lite), 
